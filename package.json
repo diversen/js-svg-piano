@@ -1,0 +1,26 @@
+{
+  "name": "js-svg-piano",
+  "version": "1.0.7",
+  "description": "A simple piano keyboard built with js and svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/js-svg-piano.git"
+  },
+  "keywords": [
+    "piano",
+    "svg",
+    "webaudio",
+    "keyboard"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/js-svg-piano/issues"
+  },
+  "homepage": "https://github.com/diversen/js-svg-piano#readme",
+  "dependencies": {}
+}
