@@ -31,7 +31,7 @@ You can see the example here:
 
 ## Related
 
-* [js-css-piano](https://diversen.github.io/js-css-piano/)
+* [js-css-piano](https://github.com/diversen/js-css-piano/)
 
 ## Build and watch example
 
